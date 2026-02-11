@@ -42,8 +42,8 @@ Python 3.8+
 1. Clone the repository (or download the code):
 
 ```bash
-git clone https://github.com/yourusername/flet-todo-app.git
-cd flet-todo-app
+git clone https://github.com/Vijay-Sarathi-R-S/flet_app_todo/edit/main
+cd flet_app_todo
 ```
 
 2. Install dependencies:
@@ -89,9 +89,7 @@ flet build ios main.py
 ```
 flet-todo-app/
 ├── main.py          # Main application file
-├── assets/          # (optional) folder for icons, images, etc.
-│   └── my_logo.ico  # example icon file
-└── README.md
+
 ```
 
 ## Customization
@@ -111,16 +109,7 @@ You can easily customize the app:
 - Search tasks
 - Notifications / reminders
 
-## License
 
-MIT License  
-Feel free to use, modify, and share!
-
-## Made with
-
-<a href="https://flet.dev">
-  <img src="https://flet.dev/img/flet-logo-wordmark.svg" width="120" alt="Flet">
-</a>
 
 Happy task managing! 🚀
 ```
